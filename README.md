@@ -19,6 +19,6 @@ You can download it for Windows, Mac, or Linux.
 
 - Clone this repo on your system
 - Open your *PyCharm Editor* 
-- Open the tutorial file by *File->New Project->* and navigate to the repo folder
+- Open the tutorial file by *File->New Project* and navigate to the repo folder
 - Enjoy working on Python! 
 
